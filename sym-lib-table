@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name 9key-rescue)(type Legacy)(uri ${KIPRJMOD}/9key-rescue.lib)(options "")(descr ""))
+  (lib (name ZOOMER_MX)(type Legacy)(uri C:/Users/Yousuf/Documents/GitHub/zoomer-9key/ZOOMER_MX.pretty/Symbols/ZOOMER_MX.lib)(options "")(descr ""))
 )

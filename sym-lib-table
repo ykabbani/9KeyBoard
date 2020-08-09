@@ -3,4 +3,6 @@
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name 9key-rescue)(type Legacy)(uri ${KIPRJMOD}/9key-rescue.lib)(options "")(descr ""))
   (lib (name ZOOMER_MX)(type Legacy)(uri C:/Users/Yousuf/Documents/GitHub/zoomer-9key/ZOOMER_MX.pretty/Symbols/ZOOMER_MX.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/Keebio-Parts.pretty/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name Cherry_MX)(type Legacy)(uri ${KIPRJMOD}/Cherry-MX-Breakout-Board/libraries/Cherry_MX.lib)(options "")(descr ""))
 )
